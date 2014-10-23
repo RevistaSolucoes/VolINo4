@@ -1,0 +1,27 @@
+\documentclass[a4paper,twoside, 11pt, leqno]{scrartcl}
+\usepackage{multirow}
+\usepackage{enumitem}
+\input{../head.tex}
+\usepackage{siunitx}
+\title{Matematica em engenharia:  Acção dos agentes atmosféricos sobre as linhas aéreas}
+\author{Bartlomiej Skorulski}
+%\date{}
+
+\makeatletter\let\Title\@title\makeatother
+\makeatletter\let\Author\@author\makeatother
+
+\newcommand{\vol}{Vol. I, No. 4}
+\renewcommand{\seccol}{csccccc}
+%\renewcommand{\cuadrocol}{cuadroiiicol}
+%\renewcommand{\seccol}{csccccc}
+\begin{document}
+\setcounter{page}{6}
+\thispagestyle{scrplain}
+\input{matematicaseningenieria_text_pt.tex}
+\end{document}
+%%% Local Variables: 
+%%% mode: latex
+%%% TeX-master: t
+%%% End: 
+
+

@@ -1,0 +1,6 @@
+%Vamos a calcular el factorial de n
+function fact=factorial(n)
+fact=1;
+for i=2:n
+   fact=fact*i;
+end

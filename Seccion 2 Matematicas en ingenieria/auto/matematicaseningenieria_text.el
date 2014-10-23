@@ -1,0 +1,28 @@
+(TeX-add-style-hook "matematicaseningenieria_text"
+ (lambda ()
+    (LaTeX-add-labels
+     "sec:introduccion"
+     "sec:parabola-vs-catenara"
+     "fig:1"
+     "cat:a"
+     "cat:b"
+     "eq:10"
+     "eq:11"
+     "cat:c"
+     "eq:4"
+     "eq:12"
+     "eq:3"
+     "eq:14"
+     "eq:15"
+     "sec:cable-y-la"
+     "fig:5"
+     "eq:20"
+     "eq:21"
+     "eq:7"
+     "fig:2"
+     "eq:2"
+     "tab:3"
+     "eq:6"
+     "eq:5"
+     "eq:1")))
+
